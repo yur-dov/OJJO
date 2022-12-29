@@ -71,4 +71,16 @@ ul {
   width: 160px;
   height: 60px;
   margin-right: 15px;
+}
+
+.gallery_list {
+  display: flex;
+}
+
+.gallery_item {
+  width: 165px;
+  height: 55px;
+  border: 1px solid #D6D6D6;
+  text-align: center;
+  padding-top: 17px;
 }/*# sourceMappingURL=main.css.map */
