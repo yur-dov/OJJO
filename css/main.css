@@ -73,6 +73,14 @@ ul {
   margin-right: 15px;
 }
 
+.gallery_text {
+  text-align: center;
+}
+
+.gallery_title {
+  text-align: center;
+}
+
 .gallery_list {
   display: flex;
 }
@@ -82,5 +90,11 @@ ul {
   height: 55px;
   border: 1px solid #D6D6D6;
   text-align: center;
+  align-items: center;
   padding-top: 17px;
+}
+
+.gallery_img_list {
+  display: flex;
+  justify-content: space-around;
 }/*# sourceMappingURL=main.css.map */
