@@ -12,10 +12,14 @@
     height: 55px;
     border: 1px solid #D6D6D6;
     text-align: center;
-    align-items: center;
-    padding-top: 17px;
 }
 .gallery_img_list{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
+}
+.gallery_img_text{
+    position: fixed;
+    color: rgb(247, 2, 2);
+    top: -50px;
 }
