@@ -96,10 +96,13 @@ ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  position: relative;
 }
 
 .gallery_img_text {
-  position: fixed;
+  position: absolute;
   color: rgb(247, 2, 2);
-  top: -50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }/*# sourceMappingURL=main.css.map */
