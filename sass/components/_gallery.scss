@@ -12,6 +12,7 @@
     height: 55px;
     border: 1px solid #D6D6D6;
     text-align: center;
+    
 }
 .gallery_img_list{
     display: flex;
@@ -20,7 +21,7 @@
     position: relative;
 }
 .gallery_img_text{
-    
+    position: absolute;
     color: rgb(247, 2, 2);
 
     text-align: center;
