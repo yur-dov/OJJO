@@ -18,15 +18,24 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    
+}
+.gallery_img_item{
     position: relative;
 }
 .gallery_img_text{
     position: absolute;
     color: rgb(247, 2, 2);
-
+    z-index: 1;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
     text-align: center;
-}
-.wrapp-img-text{
-    position: relative;
-    top: -50px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: white;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
 }

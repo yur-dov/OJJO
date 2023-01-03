@@ -1,0 +1,40 @@
+.our_stores{
+    height: 541px;
+    background-image: url('../../img/bg_header.png');
+    color: white;
+    padding-top: 100px;
+    box-sizing: border-box;
+    margin-top: 120px;
+}
+.our_stores_text{
+    text-align: center;
+    // margin-top: 100px;
+}
+.our_stores_title{
+    text-align: center;
+    margin-top: 15px;
+}
+.our_stores_lorem{
+    text-align: center;
+    margin-top: 45px;
+    width: 730px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.our_stores_btn{
+    margin-left: auto;
+    margin-right: auto;
+    width: 225px;
+    height: 51px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    display: block;
+    color: black;
+    margin-top: 60px;
+}
